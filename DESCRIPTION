@@ -1,0 +1,13 @@
+Package: norm
+Title: Min-Max Normalization
+Version: 0.1.0
+Authors@R: 
+    person("Linger", "Shen", , "slinger0225@gmail.com", role = c("aut", "cre"))
+Description: Normalize the data using Min-Max Normalization scale.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
