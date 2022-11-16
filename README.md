@@ -131,8 +131,7 @@ print(vector_na_norm)
 
 ## List is not acceptable
 
-List is not acceptable when apply to `min` and `max` Below is a vector
-contains logical data.
+List is not acceptable when apply to `min` and `max`
 
 ``` r
 list_error <- list(1:5)
